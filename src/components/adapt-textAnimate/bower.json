@@ -1,0 +1,17 @@
+{
+  "name": "adapt-textAnimate",
+  "version": "1.0.0",
+  "homepage": "https://github.com/adaptlearning/adapt-textAnimate",
+  "authors": [
+    "Himanshu Rajotia <himanshu.rajotia@exultcorp.com>"
+  ],
+  "displayName" : "TextAnimate",
+  "component" : "textAnimate",
+  "description": "A simple adapt text animation component",
+  "main": "/js/adapt-textAnimate.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}

@@ -1,0 +1,21 @@
+{
+    "_id": "c-05",
+    "_parentId": "b-05",
+    "_type": "component",
+    "_component": "textAnimate",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Text animation component",
+    "displayTitle": "Text animation component",
+    "body": "",
+    "instruction": "",
+    "_item": {
+        "text": "BULKBARN",
+        "hightlightPosition": 0,
+        "descriptionText": ":Bring It",
+        "animationTime": 1000
+    },
+    "_pageLevelProgress": {
+        "_isEnabled": true
+    }
+}

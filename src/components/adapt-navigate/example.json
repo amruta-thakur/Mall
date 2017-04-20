@@ -1,0 +1,18 @@
+{
+    "_id":"c-05",
+    "_parentId":"b-05",
+    "_type":"component",
+    "_component":"navigate",
+    "_classes":"",
+    "_layout":"left",
+    "title":"Navigate component",
+    "displayTitle":"Navigate component",
+    "body":"",
+    "instruction":"",
+    "_navigationButtons": [
+        {
+            "buttonText": "Go",
+            "navigateToId": "co-05"
+        }
+    ]
+}

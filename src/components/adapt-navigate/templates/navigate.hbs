@@ -1,0 +1,6 @@
+<div class="navigate-inner component-inner clearfix">
+    {{> component this}}
+    {{#each _navigationButtons}}
+    <div class="button navigation-button" data-id="{{navigateToId}}">{{buttonText}} <span class="icon icon-arrow-right"></span></div>
+    {{/each}}
+</div>

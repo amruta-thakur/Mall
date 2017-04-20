@@ -1,0 +1,17 @@
+{
+  "name": "adapt-navigate",
+  "version": "1.0.0",
+  "homepage": "https://github.com/adaptlearning/adapt-navigate",
+  "authors": [
+    "Himanshu Rajotia <himanshu.rajotia@exultcorp.com>"
+  ],
+  "displayName" : "Navigate",
+  "component" : "navigate",
+  "description": "A simple adapt navigate component",
+  "main": "/js/adapt-navigate.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}

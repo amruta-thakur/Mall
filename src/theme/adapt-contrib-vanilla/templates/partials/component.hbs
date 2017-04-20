@@ -1,0 +1,24 @@
+{{#if displayTitle}}
+<div class="{{_component}}-title component-title">
+    <span class="topCrest"></span>    
+    <h4 class="{{_component}}-title-inner component-title-inner">
+        {{{displayTitle}}}
+    </h4>
+</div>
+{{/if}}
+{{#if body}}
+<div class="{{_component}}-body component-body">
+    <div class="{{_component}}-body-inner component-body-inner">
+        {{{body}}}
+    	<span class="scrollBtn"></span>   
+        <span class="bottomCrest"></span> 
+    </div>
+</div>
+{{/if}}
+{{#if instruction}}
+<div class="{{_component}}-instruction component-instruction">
+    <div class="{{_component}}-instruction-inner component-instruction-inner">
+        {{{instruction}}}
+    </div>
+</div>
+{{/if}}

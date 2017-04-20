@@ -1,0 +1,23 @@
+{
+  "name": "adapt-navigate",
+  "version": "1.0.0",
+  "description": "A simple navigate component",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adaptlearning/adapt-navigate.git"
+  },
+  "author": "AdaptLearning",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/adaptlearning/adapt-navigate/issues"
+  },
+  "devDependencies": {
+    "karma": "~0.10",
+    "karma-mocha": "*",
+    "karma-expect": "*"
+  }
+}

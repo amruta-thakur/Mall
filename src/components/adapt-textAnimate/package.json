@@ -1,0 +1,23 @@
+{
+  "name": "adapt-textAnimate",
+  "version": "1.0.0",
+  "description": "A simple text animation component",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adaptlearning/adapt-textAnimate.git"
+  },
+  "author": "AdaptLearning",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/adaptlearning/adapt-textAnimate/issues"
+  },
+  "devDependencies": {
+    "karma": "~0.10",
+    "karma-mocha": "*",
+    "karma-expect": "*"
+  }
+}

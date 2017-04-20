@@ -1,0 +1,3320 @@
+[
+    {
+        "_id": "c-01",
+        "_parentId": "b-02",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "crest-logo scroll-btn",
+        "_layout": "center",
+        "title": "Eight Steps to Customer Service Success ",
+        "displayTitle": "Eight Steps to Customer Service Success ",
+        "body": "<h5>Learning Objectives:</h5>The Bulk Barn Customer Service Model is an eight-step process to engage customers, respond to their needs, and create a better shopping experience for them.<br><br>By the end of this course, you will be able to:<br><ul><li>State the importance of the customer service model in serving customers and ensuring repeat business</li><li>Explain the Bulk Barn customer service model</li><li>Describe the different types of customer personalities and their behavior</li><li>Leverage the Bulk Barn model as appropriate to each customer personality</li></ul>",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    
+    {
+        "_id": "c-03",
+        "_parentId": "b-10",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Managing Customers",
+        "displayTitle": "Managing Customers",
+        "body": "As a Bulk Barn employee, you will hear many comments from our customers, both good and bad...",
+        "instruction": "Click the Play button below to watch the video.",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/CustomerService_C3v1_v4_FINAL.mp4",            
+            "poster": "course/en/video/customerservice_C3v1_poster.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-04",
+        "_parentId": "b-15",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Happy Customers = Happy Employees",
+        "displayTitle": "Happy Customers = Happy Employees",
+        "body": "",
+        "instruction": "Click the Play button below to watch the video.",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/CustomerService_C4v1_v6_FINAL.mp4",            
+            "poster": "course/en/video/customerservice_C4v1_v5_poster.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+            "_id": "c-05",
+        "_parentId": "b-20",
+        "_classes": "",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Customer Personalities ",
+        "displayTitle": "Customer Personalities ",
+        "body": "No two customers are alike; that’s just human nature!<br>But to help you understand your customers better and learn more about their behavioral traits, we have categorized customer personalities into three general types:",
+        "mobileBody": "This is optional body text that will be shown when viewed on mobile.",
+        "instruction": "Click each hotspot marker on the image to continue.",
+        "_graphic": {
+        "src": "course/en/images/hotspot-02.jpg",
+        "alt": "alt text",
+        "title": "title"
+        },
+        "_items": [
+            {
+            "title": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer<br>",
+            "body": "<ul><li>These customers are usually in a rush. They are likely familiar with your store and know what they are looking for.</li><li>These customers can easily become agitated. They usually have something else going on in their world affecting them.</li><li>Some customers can just be cranky, so don’t take their behaviour personally!</li></ul>",
+            "_graphic": {
+            "src": "course/en/images/hurry.jpg",
+            "alt": "alt text",
+            "title": "title text"
+            },
+            "strapline": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+            "_top": 35,
+            "_left": 10
+            },
+            {
+            "title": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+            "body": "<ul><li>These are the customers we all love – they welcome our help. But they may not always ask – so be on the lookout for this.</li><li>Make good use of the opportunity to work with these customers—you don’t get a chance to help them all that often! </li><li>While interacting with these customers, use this opportunity to sharpen your skills for more difficult customers.</li></ul>",
+            "_graphic": {
+            "src": "course/en/images/cooprative.jpg",
+            "alt": "alt text",
+            "title": "title text"
+            },
+            "strapline": "Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+            "_top": 5,
+            "_left":42
+            },
+            {
+            "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+            "body": "<ul><li>Sometimes shy customers require help, but are simply afraid to receive it when you initially ask.</li><li>Be available for these customers when they do need your help.</li></ul>",
+            "_graphic": {
+            "src": "course/en/images/frightfull.jpg",
+            "alt": "alt text",
+            "title": "title text"
+            },
+            "strapline": "The “Frightful”, “Timid” and/or “Shy” Customer",
+            "_top": 39,
+            "_left": 72
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+     },
+
+         {
+            "_id": "c-06",
+            "_parentId": "b-25",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "crest-logo scroll-btn",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>Often, customers will share more than one trait from each category, so you have to be on your toes.",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": false
+            }
+     },
+    {
+        "_id": "c-07",
+        "_parentId": "b-30",
+        "_type": "component",
+        "_component": "navigate",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Creating a Better Shopping Experience",
+        "displayTitle": "Creating a Better Shopping Experience",
+        "body": "This course will help you manage customers with ease and make their experience with Bulk Barn more enjoyable.<br><br>That’s important, because when a customer leaves the store satisfied, there is a much greater chance of them becoming a repeat customer!<br><br>More Customers > More Sales > More Hours >  Better Work Environment > Better Shopping Experience<br>To build your people skills and boost customer satisfaction, we’ve designed a powerful resource called the Bulk Barn Model.<br><br>Are you ready to explore it? Then let’s get started!",
+        "instruction": "",
+        "_navigationButtons": [
+            {
+                "buttonText": "Get Started",
+                "navigateToId": "co-15"
+            }
+        ]
+    },
+    {
+        "_id": "c-991-1",
+        "_parentId": "b-991-1",
+        "_type": "component",
+        "_component": "textAnimate",
+        "_classes": "",
+        "_layout": "center",
+        "title": "<u>B</u>ULKBARN",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_item": {
+            "text": "BULKBARN",
+            "hightlightPosition": 0,
+            "descriptionText": "<h1>:Bring It</h1>",
+            "animationTime": 1000
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-991-2",
+        "_parentId": "b-991-2",
+        "_type": "component",
+        "_component": "narrative",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Which Employee Would You Rather Approach?",
+        "displayTitle": "Which Employee Would You Rather Approach?",
+        "body": "Say you are a customer and have a question about a product. Which employee would you rather approach?",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+
+            {
+                "title": "",
+                "body": "Employee One: “Gee, I'm not really sure about that. You should Google it.”<br><br>Customer: “But isn't it your job to know about your products?”",
+                "_graphic": {
+                    "src": "course/en/images/C9Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Employee Two: “This is great flour for baking. Let me share some baking ideas that have really worked out well for other customers.”<br><br>Customer: Wow, she really seems to know her stuff!",
+                "_graphic": {
+                    "src": "course/en/images/C9Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Don’t you think the customer in scenario 2 seems more satisfied? Customer satisfaction is based not just on the products they receive but also on their experience with the store employees.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s01.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-991-3",
+        "_parentId": "b-991-3",
+        "_type": "component",
+        "_component": "narrative",
+        "_classes": "",
+        "_layout": "full",
+        "title": "What Is Meant By “Bring It”?  ",
+        "displayTitle": "What Is Meant By “Bring It”?",
+        "body": "",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+
+            {
+                "title": "",
+                "body": "“Bring It” is an attitude of positively embracing the day’s responsibilities in compliance with company’s operating policies and procedures.",
+                "_graphic": {
+                    "src": "course/en/images/C11Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "“Bring It” is about exhibiting professionalism and making the customer feel welcome. You can ensure a great shopping experience for customers by:<br><li>Adopting a positive attitude</li><li>Having high energy </li><li>Being kind</li><li>Dressing appropriately </li><li>Being approachable</li>",
+                "_graphic": {
+                    "src": "course/en/images/C62Im8.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+        ],
+
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-991-6",
+        "_parentId": "b-991-5",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "First Impression Speaks a Thousand Words",
+        "displayTitle": "First Impression Speaks a Thousand Words",
+        "body": "",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "The appearance, attitude and behavior of an employee influence a customer. A customer is more likely to approach a neatly dressed employee, who speaks politely and is eager to help.",
+                "_graphic": {
+                    "src": "course/en/images/C12Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "Characteristics of a Professional Employee include:",
+                "body": "<ul><li>Clean shaven</li><li>Combed hair</li><li>Shirt tucked in</li><li>Black slacks</li><li>Black Socks</li><li>Black Shoes</li><li>Smiling Face</li><li>Energy and eagerness to provide assistance</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/C12Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Characteristics of a Professional Employee include:"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-991-7",
+        "_parentId": "b-991-6",
+        "_classes": "",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "The “Bring It” Standard",
+        "displayTitle": "The “Bring It” Standard",
+        "body": "Take a look at this image and click on each hotspot to learn about the things that are not up to the “Bring It” standard.",
+        "mobileBody": "",
+        "instruction": "Click each hotspot marker on the image to continue.",
+        "_graphic": {
+            "src": "course/en/images/C12Im3.jpg",
+            "alt": "alt text",
+            "title": "title"
+        },
+        "_items": [
+            {
+                "title": "Colorful shoes",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/colorful-shoes.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "Colorful shoes",
+                "_top": 79,
+                "_left": 57
+            },
+
+            {
+                "title": "Messy hair",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/messy hair.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "Messy hair",
+                "_top": -2,
+                "_left": 63
+            },
+            {
+                "title": "Disinterested expression",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/disinterested expression.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "Disinterested expression",
+                "_top": 8,
+                "_left": 70
+            },
+            {
+                "title": "Wrinkled or stained shirt",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/wrinkled or stained shirt.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "Wrinkled or stained shirt",
+                "_top": 25,
+                "_left":60
+            },
+            {
+                "title": "Nonblack pants",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/Black-slacks.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "Nonblack pants",
+                "_top": 62,
+                "_left":70
+            },
+            {
+                "title": "Clean shaven",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/Clean-shaven.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "Clean shaven",
+                "_top": 12,
+                "_left":58
+            },
+            {
+                "title": "Shirt tucked in",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/shirt-tucked.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "Shirt tucked in",
+                "_top": 42,
+                "_left":64
+            },
+            {
+                "title": "Black Socks",
+                "body": "",
+                "_graphic": {
+                    "src": "course/en/images/Black-Socks.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "Black Socks",
+                "_top": 79,
+                "_left":69
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-991-8",
+        "_parentId": "b-991-7",
+        "_type": "component",
+        "_component": "narrative",
+        "_classes": "",
+        "_layout": "full",
+        "title": "What You Need to Do to “Bring It”?",
+        "displayTitle": "What You Need to Do to “Bring It”?",
+        "body": "To Bring it, you need to:",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Exhibit professionalism in your work ",
+                "_graphic": {
+                    "src": "course/en/images/C12Im4.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Follow the dress code policy: wear a clean and ironed uniform with your shirt is tucked in.",
+                "_graphic": {
+                    "src": "course/en/images/C12Im5.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Always be well groomed so that you are presentable and approachable for customers.",
+                "_graphic": {
+                    "src": "course/en/images/C12Im6.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Adhere to health and safety policies and procedures.",
+                "_graphic": {
+                    "src": "course/en/images/C12Im7.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Demonstrate a contagious, positive and energetic attitude.",
+                "_graphic": {
+                    "src": "course/en/images/C12Im8.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Actively engage with customers, and be polite and courteous in your interactions.",
+                "_graphic": {
+                    "src": "course/en/images/C12Im9.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Offer appropriate support to customers and/or employees who require special needs assistance.",
+                "_graphic": {
+                    "src": "course/en/images/shutterstock_121097773.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Treat customers like guests by being hospitable and inviting – Welcome every customer to the store with a “Hello”!",
+                "_graphic": {
+                    "src": "course/en/images/C12Im11.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Remember, customers want to shop where they are comfortable and feel welcomed.<br><br>By following these standards, you’ll create the kind of shopping experience that keeps customers coming back!",
+                "_graphic": {
+                    "src": "course/en/images/C12Im12.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-991-9",
+        "_parentId": "b-991-8",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Customer Personalities and Coaching Tips",
+        "displayTitle": "Customer Personalities and Coaching Tips",
+        "body": "Let’s see how we can apply the “Bring It” approach with the three common categories of customers.",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+
+            {
+                "title": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "body": "<ul><li>If they are not in a mood to receive your assistance and service, then it’s better to let them be on their own. You’ve done your part by welcoming them to the store and having a positive attitude.</li><li>Some customers are simply in a bad frame of mind or are just in a rush. So, give them space and time to complete their shopping.</li><li>Should they need your assistance, make sure you are immediately available.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/hurry.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer"
+            },
+            {
+                "title": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+                "body": "<ul><li>These customers are often looking for our help, but don’t always ask.</li><li>With your positive approach, and contagious attitude, you will have little problem taking this customer through the next steps.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/cooprative.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer"
+            },
+            {
+                "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "body": "<ul><li>Sometimes customers require help, but are too shy to receive it when you initially ask. Be polite and set the tone. </li><li>If the customer turns down your initial request to assist them, you should still keep an eye out for them. As they walk the aisles and become more comfortable in the store it may become apparent that they do require help.</li><li>When they do accept your help be polite, professional and patient. Be prepared to ask more questions to discover their needs.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/frightfull.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "The “Frightful”, “Timid” and/or “Shy” Customer"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+	
+	{
+            "_id": "c-991-10",
+            "_parentId": "b-991-9",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>You’ve learned how to “Bring It”, click the arrow below to go back to the course menu.<br/><br/><a href='index.html#/id/co-15'><img src='course/en/images/back.png' style='display:block; margin:0 auto; width:auto !important; max-width: 100% !important;'></a>",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": false
+            }
+     },
+	
+    {
+        "_id": "c-992-1",
+        "_parentId": "b-992-1",
+        "_type": "component",
+        "_component": "textAnimate",
+        "_classes": "",
+        "_layout": "center",
+        "title": "B<u>U</u>LKBARN",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_item": {
+            "text": "BULKBARN",
+            "hightlightPosition": 1,
+            "descriptionText": "<h1>:Understanding Customer Needs</h1>",
+            "animationTime": 1000
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-992-2",
+        "_parentId": "b-992-2",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "full",
+        "title": "How Does It Make You Feel?",
+        "displayTitle": "How Does It Make You Feel?",
+        "body": "How does it make you feel when someone takes the time to understand what you need and as a result, you turn a good recipe into a great one?<br><br>Customer: Hey, that’s an amazing dessert suggestion. My in laws will never believe I came up with it!<br><br>Employee: Well, that’s why we’re here. Good luck with your dinner!",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-992-3",
+        "_parentId": "b-992-3",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "full",
+        "title": "",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Daily Inspection and Sweeping Log",
+            "title": "",
+            "large": "course/en/images/C16Im1.jpg",
+            "medium": "course/en/images/C16Im1.jpg",
+            "small": "course/en/images/C16Im1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+    {
+        "_id": "c-992-4",
+        "_parentId": "b-992-4",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What Is Meant by “Understanding Customer Needs”?",
+        "displayTitle": "What Is Meant by “Understanding Customer Needs”?",
+        "body": "",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Understanding customer needs is about actively engaging a customer to understand their product needs and wants.",
+                "_graphic": {
+                    "src": "course/en/images/C17Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Identify what a customer is looking for and offer them products that suit their requirements. This will make them feel appreciated and help to build strong customer relationships. ",
+                "_graphic": {
+                    "src": "course/en/images/C17Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Once you understand the customer’s needs, provide additional products and solutions that they may have been previously unaware of.",
+                "_graphic": {
+                    "src": "course/en/images/C17Im3.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Your actions will show them that you are willing to go above and beyond typical service to ensure their needs are met and that they are totally satisfied. ",
+                "_graphic": {
+                    "src": "course/en/images/C17Im4.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "To understand customer needs, you need to ask open-ended questions that encourage customers to talk more about what they are making or what products they need.",
+                "_graphic": {
+                    "src": "course/en/images/C17Im5.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Open-ended questions are those that can’t be answered by simply yes or no.<br><br>Here are a few sample questions that you can ask to get the conversation started.",
+                "_graphic": {
+                    "src": "course/en/images/C17Im6.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "<ul><li>What can I help you find today?</li><li>What is that you are making?</li><li>Would you prefer gluten-free products?</li><li>Can you tell me more about the occasion and number of guests?</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/C17Im7.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-992-5",
+        "_parentId": "b-992-5",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_isRandom": false,
+        "_selectable": 5,
+        "title": "Knowledge Check",
+        "displayTitle": "Knowledge Check",
+        "body": "Imagine a customer has just walked into your store. You want to approach the customer to assist them in finding what they need.<br><br>What questions would you ask the customer to understand their requirements better?",
+        "instruction": "Select the correct options and submit.",
+        "_items": [
+            {
+                "text": "What can I help you find today?",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Could you tell me about what you are preparing?",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Can you tell me more about the birthday theme?",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "How old will the kids be",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Do any of your guests have dietary restrictions or allergies?",
+                "_shouldBeSelected": true
+            }
+        ],
+        "_feedback": {
+            "correct": "<b>That’s right!</b> These are all great questions that you can ask your customers to get a better understanding of their needs. ",
+            "_incorrect": {
+                "notFinal": "",
+                "final": "Great try but you could do better. These are all great questions that you can ask your customers to get a better understanding of their needs. "
+            },
+            "_partlyCorrect": {
+                "notFinal": "",
+                "final": "Great try but you could do better. These are all great questions that you can ask your customers to get a better understanding of their needs."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-992-6",
+        "_parentId": "b-992-6",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What You Need to Do to Understand Customer Needs?",
+        "displayTitle": "What You Need to Do to Understand Customer Needs?",
+        "body": "To understand customer needs, you need to:  ",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Ask the customer if they need help finding what they are looking for.",
+                "_graphic": {
+                    "src": "course/en/images/C18Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Ask open-ended questions that elicit more than just a yes or a no response.",
+                "_graphic": {
+                    "src": "course/en/images/C18Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Listen attentively to the customer to understand what products they need and how they plan to use those products.",
+                "_graphic": {
+                    "src": "course/en/images/C18Im3.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Speak intelligently while responding to the customer’s requirements.",
+                "_graphic": {
+                    "src": "course/en/images/C18Im4.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Demonstrate an “I’m here for you” attitude toward the customer.",
+                "_graphic": {
+                    "src": "course/en/images/C18Im5.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Tell the customer about products we have in stock that will meet their needs.",
+                "_graphic": {
+                    "src": "course/en/images/C18Im6.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Suggest appropriate product substitutes to the customer, if we do not carry what they are looking for.",
+                "_graphic": {
+                    "src": "course/en/images/C18Im7.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-992-7",
+        "_parentId": "b-992-7",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Customer Personalities and Coaching Tips",
+        "displayTitle": "Customer Personalities and Coaching Tips",
+        "body": "Let’s see how we can better understand customer needs across different categories of customers.",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "The “in a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "body": "<br><ul><li>These customers are often in a hurry and may appear to be sullen or irritated. However, often they do need our help and will ask for it. Their approach to asking for help may be abrupt or aggressive. Yet, it is our job to remain welcoming and continue to treat them like guests.</li><li>If this sort of customer does engage you for assistance, take on the “pace” in which they are going at. At the same time, it is important to maintain your composure, politeness and professionalism. </li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/hurry.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "The “in a Hurry”, “Grumpy”, and/or “Agitated” Customer"
+            },
+            {
+                "title": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+                "body": "<br><ul><li>Although these customers are easy to work with and are cooperative, it is still very important to ask all the right questions.</li><li>With these customers, it can be easy to get carried away and be overtly talkative. Maintain your<br>professionalism and continue to ask questions to lead you in the right direction.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/cooprative.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer"
+            },
+            {
+                "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "body": "<br><ul><li>Just like the “in a hurry”, “grumpy”, and “agitated” customer, this customer will often give you short, one word responses because they are shy and timid.</li><li>Don’t be overly talkative. You don’t want to be intimidating or “pushy”. This customer is more sensitive to this approach and may be scared off.</li><li>Be patient with this customer. Mirror the customer’s tone and speech rhythm as you continue to ask questions.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/frightfull.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "The “Frightful”, “Timid” and/or “Shy” Customer"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+	
+	
+	{
+            "_id": "c-992-8",
+            "_parentId": "b-992-8",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>You’ve learned about Understanding Customer Needs, click the arrow below to go back to the course menu.<br/><br/><a href='index.html#/id/co-15'><img src='course/en/images/back.png' style='display:block; margin:0 auto; width:auto !important; max-width: 100% !important;'></a>",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": false
+            }
+     },
+
+    {
+        "_id": "c-993-1",
+        "_parentId": "b-993-1",
+        "_type": "component",
+        "_component": "textAnimate",
+        "_classes": "",
+        "_layout": "center",
+        "title": "BU<u>L</u>KBARN",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_item": {
+            "text": "BULKBARN",
+            "hightlightPosition": 2,
+            "descriptionText": "<h1>:Leading the Customer</h1>",
+            "animationTime": 1000
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+	{
+    "_id":"c-993-2",
+    "_parentId":"b-993-2",
+    "_type":"component",
+    "_component":"gmcq",
+    "_classes":"",
+    "_layout":"full",
+    "_attempts":1,
+    "_questionWeight":1,
+    "_isRandom":false,
+    "_selectable":1,
+    "title": "Picture Yourself in the Customer’s Shoes",
+    "displayTitle": "Picture Yourself in the Customer’s Shoes",
+    "body": "Picture yourself in the customer’s shoes and imagine that you need help finding a product. When you ask a store employee for assistance, what response would you prefer?",
+    "instruction": "Choose the correct image below and click 'submit' to continue.",
+    "_items": [
+        {
+            "text": "Employee 1:<br>It’s just over there at the end of Aisle 2.",
+            "_shouldBeSelected":false,
+            "_graphic": {
+                "alt": "Alt text for option 1",
+                "title": "title text",
+                "large": "course/en/images/C24Im1.jpg",
+                "medium": "course/en/images/C24Im1.jpg",
+                "small": "course/en/images/C24Im1.jpg"
+            }
+        },
+        {
+            "text": "Employee 2:<br>It would be my pleasure to show you where it is. Please come with me!",
+            "_shouldBeSelected":true,
+            "_graphic": {
+                "alt": "Alt text for option 2",
+                "title": "title text",
+                "large": "course/en/images/C24Im2.jpg",
+                "medium": "course/en/images/C24Im2.jpg",
+                "small": "course/en/images/C24Im2.jpg"
+            }
+        }
+    ],
+    "_feedback":{
+        "correct":"We bet you’d prefer the second response. And who wouldn’t? Nothing feels better than when someone shows they care by really “walking the walk” - and saving you the time and aggravation of looking for a product you can’t find.",
+        "_incorrect": {
+            "notFinal": "",
+            "final": "We bet you’d prefer the second response. And who wouldn’t? Nothing feels better than when someone shows they care by really “walking the walk” - and saving you the time and aggravation of looking for a product you can’t find."
+        },
+        "_partlyCorrect": {
+            "notFinal": "",
+            "final": "We bet you’d prefer the second response. And who wouldn’t? Nothing feels better than when someone shows they care by really “walking the walk” - and saving you the time and aggravation of looking for a product you can’t find."
+        }
+    },
+    "_buttons":{
+        "submit":"",
+        "reset":"",
+        "showCorrectAnswer":"",
+        "hideCorrectAnswer":""
+    }
+},
+    {
+        "_id": "c-993-3",
+        "_parentId": "b-993-3",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What Is Meant by “Leading the Customer”?",
+        "displayTitle": "What Is Meant by “Leading the Customer”?",
+        "body": "",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "“Leading the Customer” is about employees guiding the customers directly to the product they want.",
+                "_graphic": {
+                    "src": "course/en/images/C25Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "The actual interaction starts when a customer approaches you or you approach a customer to ask about their needs. Instead of saying where the product can be found, lead them directly to it.  ",
+                "_graphic": {
+                    "src": "course/en/images/C25Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "By leading the customer, you make the customer feel more welcome and show them that you care.",
+                "_graphic": {
+                    "src": "course/en/images/C25Im3.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+
+    {
+        "_id": "c-993-4",
+        "_parentId": "b-993-4",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Leading the Customer - Scenario",
+        "displayTitle": "Leading the Customer - Scenario",
+        "body": "",
+        "instruction": "Click the Play button below to watch the video.",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/CustomerService_C27v1_v4_FINAL.mp4",            
+            "poster": "course/en/video/customerservice_C27v1_v4_poster.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-993-5",
+        "_parentId": "b-993-5",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "full",
+        "title": "",
+        "displayTitle": "",
+        "body": "<br>This customer initially required only cupcake liners. But by asking a simple open-ended question, you’ve made this customer receptive to purchasing other cupcake related products.",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Daily Inspection and Sweeping Log",
+            "title": "",
+            "large": "course/en/images/C28Im1.jpg",
+            "medium": "course/en/images/C28Im1.jpg",
+            "small": "course/en/images/C28Im1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+	
+	
+{
+	"_id":"c-993-6",
+	"_parentId":"b-993-6",
+	"_type":"component",
+	"_component":"mcq",
+	"_classes":"",
+	"_layout":"center",
+	"_attempts":1,
+	"_questionWeight":1,
+	"_isRandom":false,
+	"_selectable":14,
+	"title": "Knowledge Check",
+	"displayTitle": "Knowledge Check",
+	"body": "Take a moment to ask yourself:  What other products could you offer in addition to cupcake liners?",
+	"instruction": "Select the correct options and click Submit.",
+	"_items": [
+		{
+			"text": "Sprinkles",
+			"_shouldBeSelected":true
+		},
+		{
+			"text": "Whey Protein",
+			"_shouldBeSelected":false
+		},
+        	{
+			"text": "Textured Vegetable Protein",
+			"_shouldBeSelected":false
+		},
+		{
+			"text": "Cupcake baking tins",
+			"_shouldBeSelected":true
+		},
+		{
+			"text": "Pasta",
+			"_shouldBeSelected":false
+		},
+		{
+			"text": "Rice",
+			"_shouldBeSelected":false
+		},
+		{
+			"text": "Piping bags and accessories",
+			"_shouldBeSelected":true
+		},
+		{
+			"text": "Buttercreme Icing",
+			"_shouldBeSelected":true
+		},
+		{
+			"text": "Fondant",
+			"_shouldBeSelected":true
+		},
+		{
+			"text": "Spices",
+			"_shouldBeSelected":false
+		},
+		{
+			"text": "Icing Decorations",
+			"_shouldBeSelected":true
+		},
+		{
+			"text": "Hemp seeds",
+			"_shouldBeSelected":false
+		},
+		{
+			"text": "Colored Sugars",
+			"_shouldBeSelected":true
+		},
+		{
+			"text": "Quinns",
+			"_shouldBeSelected":true
+		}
+	],
+    "_feedback":{
+        "correct":"Nice work! You have asked great questions to understand the customer’s needs and suggested products that respond to those needs.",
+        "_incorrect": {
+            "notFinal": "",
+            "final": "Nice try but you could do better. You have asked great questions to understand the customer’s needs.<br>The next step is to suggest products that address those needs. The products you should have suggested are:<ul><li>Sprinkles</li><li>Quinns</li><li>Colored Sugars</li><li>Icing Decorations</li><li>Cupcake baking tins</li><li>Piping bags and accessories</li><li>Buttercreme Icing</li><li>Fondant</li></ul>  "
+        },
+        "_partlyCorrect": {
+            "notFinal": "",
+            "final": "Nice try but you could do better. You have asked great questions to understand the customer’s needs.<br>The next step is to suggest products that address those needs. The products you should have suggested are:<ul><li>Sprinkles</li><li>Quinns</li><li>Colored Sugars</li><li>Icing Decorations</li><li>Cupcake baking tins</li><li>Piping bags and accessories</li><li>Buttercreme Icing</li><li>Fondant</li></ul>  "
+      }
+	},
+	"_buttons":{
+		"submit":"",
+		"reset":"",
+		"showCorrectAnswer":"",
+		"hideCorrectAnswer":""
+	},
+    "_pageLevelProgress": {
+        "_isEnabled": true
+    }
+}, 
+
+    
+
+    {
+        "_id": "c-993-7",
+        "_parentId": "b-993-7",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What You Need to Do to Lead the Customer",
+        "displayTitle": "What You Need to Do to Lead the Customer",
+        "body": "To Lead the customer, you need to:",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Know where all products in the store are placed.",
+                "_graphic": {
+                    "src": "course/en/images/C29Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Guide the customer directly to the product they are requesting.",
+                "_graphic": {
+                    "src": "course/en/images/C29Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Continue to engage the customer in a friendly manner while on route to the product(s).",
+                "_graphic": {
+                    "src": "course/en/images/C29Im3.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Answer any product-related questions the customer may have. ",
+                "_graphic": {
+                    "src": "course/en/images/C29Im4.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "If necessary, offer assistance to help the customer remove the product from the shelf or help scoop the product by holding the lid.",
+                "_graphic": {
+                    "src": "course/en/images/C29Im5.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Offer them a sample if they seem interested in other products.",
+                "_graphic": {
+                    "src": "course/en/images/C29Im6.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+
+            {
+                "title": "",
+                "body": "Ask the customer if they need anything else and if so, take the customer to that product.",
+                "_graphic": {
+                    "src": "course/en/images/C29Im7.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+
+    {
+        "_id": "c-993-8",
+        "_parentId": "b-993-8",
+        "_classes": "",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Customer Personalities and Coaching Tips",
+        "displayTitle": "Customer Personalities and Coaching Tips",
+        "body": "Let’s see how you can lead our three types of customers.",
+        "mobileBody": "This is optional body text that will be shown when viewed on mobile.",
+        "instruction": "Click each hotspot marker on the image to continue.",
+        "_graphic": {
+            "src": "course/en/images/hotspot-02.jpg",
+            "alt": "alt text",
+            "title": "title"
+        },
+        "_items": [
+            {
+                "title": "The “in a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "body": "<ul><li>If this sort of customer does engage you for assistance, take on the customer’s pace.</li><li>However, it is important to maintain your composure, politeness and professionalism.</li><li>Continue to ask them questions to understand their requirement.</li><li>If they give you short answers, they probably aren’t interested in your help. Simply ask them if there is anything else you can do for them and give them space.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/hurry.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “in a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "_top": 35,
+                "_left": 10
+            },
+            {
+                "title": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+                "body": "<ul><li>Maintain your energy level and take this customer to the product(s) they are looking for.</li><li>Continue to ask the right questions as you lead this customer – they may be looking for other products and not even know it!</li><li>Maintain your professionalism and continue to communicate with the customer so that you can lead them in the right direction.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/cooprative.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+                "_top": 5,
+                "_left": 42
+            },
+            {
+                "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "body": "<ul><li>As you are leading this customer, be friendly and professional with them, Chances are they may just need some time to warm up to you.</li><li>Take on their tone, be patient with this customer, and don’t get overly boisterous or talkative.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/frightfull.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "_top": 39,
+                "_left": 72
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+	
+	
+	{
+            "_id": "c-993-9",
+            "_parentId": "b-993-9",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>You’ve learned how to Lead the Customer, click the arrow below to go back to the course menu.<br/><br/><a href='index.html#/id/co-15'><img src='course/en/images/back.png' style='display:block; margin:0 auto; width:auto !important; max-width: 100% !important;'></a>",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": false
+            }
+     },
+	
+
+    {
+        "_id": "c-994-1",
+        "_parentId": "b-994-1",
+        "_type": "component",
+        "_component": "textAnimate",
+        "_classes": "",
+        "_layout": "center",
+        "title": "BUL<u>K</u>BARN",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_item": {
+            "text": "BULKBARN",
+            "hightlightPosition": 3,
+            "descriptionText": "<h1>:Knowing the Products, Processes and Promotions</h1>",
+            "animationTime": 1000
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-994-2",
+        "_parentId": "b-994-2",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Explain Products and Promotions!",
+        "displayTitle": "Explain Products and Promotions!",
+        "body": "",
+        "instruction": "Click the Play button below to watch the video.",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/CustomerService_C36v1_v6_FINAL.mp4",            
+            "poster": "course/en/video/customerservice_C36v1_poster.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id":"c-994-3",
+        "_parentId":"b-994-3",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"What Is Meant By “Knowing the Products, Processes and Promotions”?",
+        "displayTitle":"What Is Meant By “Knowing the Products, Processes and Promotions”?",
+        "body":"Knowing Products, Processes and Promotions means learning more about products, store operating processes and all current promotional activities.<br><br>Build your knowledge about your store’s products, process and promotions to help out a customer and create a positive shopping experience.<br><br>Never hesitate to ask for help or guidance from management. After all, at Bulk Barn, we’re a team! ",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-994-4",
+        "_parentId": "b-994-4",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "full",
+        "title": "",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Daily Inspection and Sweeping Log",
+            "title": "",
+            "large": "course/en/images/C37Im1.jpg",
+            "medium": "course/en/images/C37Im1.jpg",
+            "small": "course/en/images/C37Im1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+    {
+        "_id": "c-994-5",
+        "_parentId": "b-994-5",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "<br>Click the Play button below to watch the video.",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/CustomerService_C38v1_v2-good.mp4",            
+            "poster": "course/en/video/customerservice_C38v1_poster.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+
+    {
+        "_id": "c-994-6",
+        "_parentId": "b-994-6",
+        "_type": "component",
+        "_component": "gmcq",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_isRandom": false,
+        "_selectable": 1,
+        "title": "Knowledge Check",
+        "displayTitle": "Knowledge Check",
+        "body": "Often a customer will ask for details about products. When they do, it’s important to know the answer.<br><br>In this scenario, a customer has just asked an employee about what differentiates dark, regular and white chocolate.<br><br>Read each of the responses and select the one that you feel best demonstrates product knowledge.",
+        "instruction": "Choose the correct response below and click “Submit” to continue.",
+        "_items": [
+            {
+                "text": "Employee 1:<br>They're all different colours. ",
+                "_shouldBeSelected": false,
+                "_graphic": {
+                    "alt": "Alt text for option 1",
+                    "title": "title text",
+                    "large": "course/en/images/C39Im1.jpg",
+                    "medium": "course/en/images/C39Im1.jpg",
+                    "small": "course/en/images/C39Im1.jpg"
+                }
+            },
+            {
+                "text": "Employee 2:<br>Dark chocolate tastes bitter and the other two taste sweet. My personal preference is milk chocolate.",
+                "_shouldBeSelected": false,
+                "_graphic": {
+                    "alt": "Alt text for option 2",
+                    "title": "title text",
+                    "large": "course/en/images/C39Im2.jpg",
+                    "medium": "course/en/images/C39Im2.jpg",
+                    "small": "course/en/images/C39Im2.jpg"
+                }
+            },
+
+            {
+                "text": "Employee 3:<br>None are good for you if you eat too much of it.  ",
+                "_shouldBeSelected": false,
+                "_graphic": {
+                    "alt": "Alt text for option 1",
+                    "title": "title text",
+                    "large": "course/en/images/C39Im3.jpg",
+                    "medium": "course/en/images/C39Im3.jpg",
+                    "small": "course/en/images/C39Im3.jpg"
+                }
+            },
+            {
+                "text": "Employee 4:<br>It comes down to how they are produced. Dark chocolate is made by combining cocoa solids, cocoa butter and sugar with little or no milk, giving it a more bitter taste.<br>Mild chocolate contains more dairy fat and white chocolate doesn’t contain cocoa solids, just cocoa butter, milk and sugar.",
+                "_shouldBeSelected": true,
+                "_graphic": {
+                    "alt": "Alt text for option 1",
+                    "title": "title text",
+                    "large": "course/en/images/C39Im4.jpg",
+                    "medium": "course/en/images/C39Im4.jpg",
+                    "small": "course/en/images/C39Im4.jpg"
+                }
+            }
+        ],
+        "_feedback": {
+            "correct": "Nice work! You have helped this customer understand how ingredients impact the taste of chocolate.",
+            "_incorrect": {
+                "notFinal": "",
+                "final": "Nice try but you could do better. The fourth response demonstrates the level of product knowledge our customers expect and appreciate."
+            },
+            "_partlyCorrect": {
+                "notFinal": "",
+                "final": "Nice try but you could do better. The fourth response demonstrates the level of product knowledge our customers expect and appreciate."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+
+    {
+        "_id": "c-994-7",
+        "_parentId": "b-994-7",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What You Need to Do To “Know the Products, Processes and Promotions”",
+        "displayTitle": "What You Need to Do To “Know the Products, Processes and Promotions”",
+        "body": "To know the products, processes and promotions better, you need to: ",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Know what products we carry, their purpose, suitable alternatives, and where they can be found in the store. ",
+                "_graphic": {
+                    "src": "course/en/images/C40Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Speak about our products intelligently– their names, what they are, what they can be used for and where they come from.",
+                "_graphic": {
+                    "src": "course/en/images/C40Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Be aware of and accurately explain all current promotions.",
+                "_graphic": {
+                    "src": "course/en/images/C40Im3.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Understand our procedures for ringing the customer through in a timely and seamless manner – whether processing gift cards, processing seniors” & students” discounts, coupons, or any other transaction. ",
+                "_graphic": {
+                    "src": "course/en/images/C40Im4.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Know how to process all register transactions including product promotions in a timely manner and with accuracy.<br>Know store operating and product processes and procedures, and be able to execute them with competence.",
+                "_graphic": {
+                    "src": "course/en/images/C40Im5.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Never hesitate to ask your manager for information or an explanation. They are there to help! ",
+                "_graphic": {
+                    "src": "course/en/images/c13-s02.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-994-8",
+        "_parentId":"b-994-8",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Customer Personalities and Coaching Tips",
+        "displayTitle": "Customer Personalities and Coaching Tips",
+        "body": "Let’s see how you can manage customer requests and offer them information on products, processes and promotions. ",
+        "mobileBody": "Let’s see how you can manage customer requests and offer them information on products, processes and promotions. ",
+        "instruction":"Click each hotspot marker on the image to continue.",
+        "_graphic": {
+            "src": "course/en/images/hotspot-02.jpg",
+            "alt": "alt text",
+            "title": "title"
+        },
+        "_items": [
+            {
+                "title": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "body": "<ul><li>Occasionally, even knowing the product, processes and promotions can’t please this sort of customer, so don’t take it personally.</li><li>Simply maintain the course of the process and maintain your professionalism and positive demeanour.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/hurry.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "_top": 35,
+                "_left": 10
+            },
+            {
+                "title": "The “Cooperative”, “Happy” , “Looking for Help” and/or “Willing” Customer",
+                "body": "<ul><li>This sort of customer may not even be looking for product information or information on specific promotions.</li><li>Make an effort to communicate. By informing them, you will build even more confidence in them and provide them with an even better shopping experience.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/cooprative.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “Cooperative”, “Happy” , “Looking for Help” and/or “Willing” Customer",
+                "_top": 5,
+                "_left": 42
+            },
+            {
+                "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "body": "<ul><li>Offer this customer the right information and any specific promotion that pertains their requirement.</li><li>This will build their trust in you and may even help them warm up to you more quickly.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/frightfull.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "_top": 39,
+                "_left": 72
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-994-9",
+        "_parentId":"b-994-9",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"center",
+        "title":"",
+        "displayTitle":"",
+        "body":"<br>No matter what customer you are working with, everyone loves to hear about promotions - so be sure to share your knowledge with them.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+	
+	{
+            "_id": "c-994-10",
+            "_parentId": "b-994-10",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>You’ve learned about Knowing the Products, Processes and Promotions, click the arrow below to go back to the course menu.<br/><br/><a href='index.html#/id/co-15'><img src='course/en/images/back.png' style='display:block; margin:0 auto; width:auto !important; max-width: 100% !important;'></a>",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": false
+            }
+     },
+
+    {
+        "_id": "c-995-1",
+        "_parentId": "b-995-1",
+        "_type": "component",
+        "_component": "textAnimate",
+        "_classes": "",
+        "_layout": "center",
+        "title": "BULK<u>B</u>ARN",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_item": {
+            "text": "BULKBARN",
+            "hightlightPosition": 4,
+            "descriptionText": "<h1>:Believing in the Products and Processes</h1>",
+            "animationTime": 1000
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+
+        "_id": "c-995-2",
+        "_parentId": "b-995-2",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Know Our Products",
+        "displayTitle": "Know Our Products",
+        "body": "",
+        "instruction": "Click the Play button below to watch the video.",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/CustomerService_C42v1_v3_FINAL.mp4",            
+            "poster": "course/en/video/CustomerService_C42v1_v3_poster1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-995-3",
+        "_parentId": "b-995-3",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "full",
+        "title": "What Is Meant By “Believing in the Products and Processes”?",
+        "displayTitle": "What Is Meant By “Believing in the Products and Processes”?",
+        "body": "Believing in the Products and Processes refers to an attitude where the employee exudes confidence and pride when speaking about our product and brand.<br><br>Our processes have been designed and built on 30 years of success. They are tried and proven – everything from cleaning to restocking, everything we do is for the customer!<br><br>The better you know the product and processes the more confident you are and the better you can assist a customer. ",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-995-4",
+        "_parentId": "b-995-4",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "full",
+        "title": "",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Daily Inspection and Sweeping Log",
+            "title": "",
+            "large": "course/en/images/C44Im1.jpg",
+            "medium": "course/en/images/C44Im1.jpg",
+            "small": "course/en/images/C44Im1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+
+
+    {
+        "_id": "c-995-5",
+        "_parentId": "b-995-5",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Did You Know?",
+        "displayTitle": "Did You Know?",
+        "body": "We follow several processes to make sure our customer receive the best quality products all the time.<br>Did you know?",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "We continuously rotate our liners and our product to ensure the freshest product for our customer.",
+                "_graphic": {
+                    "src": "course/en/images/IMO_21.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "We sanitize every scoop in the store on a daily basis and gluten free scoops are sanitized separately from the rest.",
+                "_graphic": {
+                    "src": "course/en/images/C44Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "To guard against cross contamination, gluten free barrels and tubs are cleaned and vacuumed separately from the rest.",
+                "_graphic": {
+                    "src": "course/en/images/C44Im3.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Pet food fixtures are vacuumed and cleaned with dedicated tools that are never used in other areas of the store.",
+                "_graphic": {
+                    "src": "course/en/images/C44Im4.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "It’s ok if you are not familiar with these or other processes followed at Bulk Barn. In future courses, we will learn more about it.",
+                "_graphic": {
+                    "src": "course/en/images/POS_4.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-995-6",
+        "_parentId": "b-995-6",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_isRandom": false,
+        "_selectable": 5,
+        "title": "Knowledge Check",
+        "displayTitle": "Knowledge Check",
+        "body": "At Bulk Barn, we follow the liner and rotation process. Do you know how it benefits our customers? ",
+        "instruction": "Select the correct option and click submit. ",
+        "_items": [
+            {
+                "text": "We continuously rotate our liners to ensure staff have something to do.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "We continuously rotate our liners and our product to ensure the freshest product for our customer.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "We continuously rotate our liners so that they look nice all the time.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "We continuously rotate our liners because corporate office instructs us too.",
+                "_shouldBeSelected": false
+            }
+
+        ],
+        "_feedback": {
+            "correct": "You got it! We rotate liners and product to ensure our customers receive the freshest product possible. Communicate about this product process to build confidence in our customers.",
+            "_incorrect": {
+                "notFinal": "",
+                "final": "Not exactly. We rotate liners and product to ensure our customers receive the freshest product possible. Communicate about this product process to build confidence in our customers!<br>It’s ok if you are not familiar with these or other processes followed at Bulk Barn. In future courses, you will learn more about it."
+            },
+            "_partlyCorrect": {
+                "notFinal": "",
+                "final": "Not exactly. We rotate liners and product to ensure our customers receive the freshest product possible. Communicate about this product process to build confidence in our customers!<br>It’s ok if you are not familiar with these or other processes followed at Bulk Barn. In future courses, you will learn more about it."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-995-7",
+        "_parentId": "b-995-6",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What You Need to Do to Believe in the Products and Processes",
+        "displayTitle": "What You Need to Do to Believe in the Products and Processes",
+        "body": "To be able to believe in our products and processes, you need to:",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Talk positively about all our products and our brand at all times.",
+                "_graphic": {
+                    "src": "course/en/images/C45Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Speak with confidence about our product quality and brand.",
+                "_graphic": {
+                    "src": "course/en/images/C45Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Encourage customers to try new items.",
+                "_graphic": {
+                    "src": "course/en/images/C45Im3.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Positively engage in customer sampling initiatives and talk intelligibly about products being sampled.",
+                "_graphic": {
+                    "src": "course/en/images/C45Im4.jpg",
+                    "alt": "Third graphic",
+                    "title": "Third graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Offer effective substitutes with confidence when a particular item is not available for a customer.",
+                "_graphic": {
+                    "src": "course/en/images/C45Im5.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Take care of our products to maintain their quality and integrity.",
+                "_graphic": {
+                    "src": "course/en/images/C45Im6.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Take care of the store to ensure it accurately represents our brand and quality product offering.",
+                "_graphic": {
+                    "src": "course/en/images/C45Im7.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-995-8",
+        "_parentId":"b-995-7",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Customer Personalities and Coaching Tips",
+        "displayTitle": "Customer Personalities and Coaching Tips",
+        "body": "By believing in our products and being confident, you can surely win over different customers – whether they are agitated, cooperative, and shy. Let’s see how you can manage different customer personalities.",
+        "mobileBody": "Let’s see how you can manage customer requests and offer them information on products, processes and promotions. ",
+        "instruction":"Click each hotspot marker on the image to continue.",
+        "_graphic": {
+            "src": "course/en/images/hotspot-02.jpg",
+            "alt": "alt text",
+            "title": "title"
+        },
+        "_items": [
+            {
+                "title": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "body": "<ul><li>Even though these customers can be in a hurry, often they do want to ask a question or two about the product.</li><li>Be sure that you are available for them and only answer the questions they are asking. You will have to gauge their response as to whether or not they want more information.</li><li>By this step in the process, the customer is probably so pleased with you that they are no longer a “in a Hurry”, “Grumpy”, and “Agitated” Customer.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/hurry.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "_top": 35,
+                "_left": 10
+            },
+            {
+                "title": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+                "body": "<ul><li>This customer has been through all of these steps with you – they have a rapport with you.</li><li>Demonstrating confidence in our products and processes will further build both their confidence and the quality of their experience with you and the store!</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/cooprative.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+                "_top": 5,
+                "_left": 42
+            },
+            {
+                "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "body": "<ul><li>This customer may by frightful, timid and/or Shy – because they have never been in a bulk barn store, or maybe even had a poor experience in their last visit.</li><li>Be confident and believe in the product and our processes. This confidence could very well “rub off” on this customer, turning their slightly frightening experience into a more positive one with you and the store.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/frightfull.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "_top": 39,
+                "_left": 72
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+	
+	
+	{
+            "_id": "c-995-9",
+            "_parentId": "b-995-8",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>You’ve learned about Believing in the Products and Processes, click the arrow below to go back to the course menu.<br/><br/><a href='index.html#/id/co-15'><img src='course/en/images/back.png' style='display:block; margin:0 auto; width:auto !important; max-width: 100% !important;'></a>",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": false
+            }
+     },
+	
+
+    {
+        "_id": "c-996-1",
+        "_parentId": "b-996-1",
+        "_type": "component",
+        "_component": "textAnimate",
+        "_classes": "",
+        "_layout": "center",
+        "title": "BULKB<u>A</u>RN",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_item": {
+            "text": "BULKBARN",
+            "hightlightPosition": 5,
+            "descriptionText": "<h1>:Acknowledging Customer Needs and Adding-On</h1>",
+            "animationTime": 1000
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+
+        "_id": "c-996-2",
+        "_parentId": "b-996-2",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Take a Personal Interest, Ask the Right Questions, Show You Care",
+        "displayTitle": "Take a Personal Interest, Ask the Right Questions, Show You Care",
+        "body": "",
+        "instruction": "Click the Play button below to watch the video.",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/CustomerService_C51v1_v5_FINAL.mp4",            
+            "poster": "course/en/video/customerservice_C51v1_poster.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-996-3",
+        "_parentId": "b-996-3",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "full",
+        "title": "What Is Meant By “Acknowledging Customer Needs”?",
+        "displayTitle": "What Is Meant By “Acknowledging Customer Needs”?",
+        "body": "<br>Acknowledging Customer Needs and Adding-On is about listening to the customer and offering product options that will meet and/or compliment the customer’s needs/wants.<br><br>Show the customer that you have not only listened to their needs, but are offering complimentary products to help them with their requirements. This will build trust and confidence in the customer’s mind.<br><br>Let the customer know about our HUGE arrangement of products and show them additional products that will complement their shopping needs. Feel free to make new suggestions.<br><br>For example: As you are walking your customer to a requested type of baking mix, don’t be afraid to point out any other items in the aisle and talk about how other customers use that product.",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Daily Inspection and Sweeping Log",
+            "title": "",
+            "large": "course/en/images/C52Im1.jpg",
+            "medium": "course/en/images/C52Im1.jpg",
+            "small": "course/en/images/C52Im1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-996-4",
+        "_parentId": "b-996-4",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "A Few Sample Questions",
+        "displayTitle": "A Few Sample Questions",
+        "body": "Acknowledging customer needs is a step ahead of understanding customer needs. Here are a few sample questions that you can ask your customers to acknowledge their needs:",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Are there any other supplements that you take along with Vitamin C? If you’re interested, we have several specials on this week.",
+                "_graphic": {
+                    "src": "course/en/images/C52Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Now that you have the dried apples for your daughter’s lunch, I’d like to suggest some other dried fruit favourites that are big with the kids.",
+                "_graphic": {
+                    "src": "course/en/images/C52Im3.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "I’m glad that your Great Dane is stocked up with Tarter Buster Dog Bones. What other treats does he like? Dog owners always rave about the pig ears. ",
+                "_graphic": {
+                    "src": "course/en/images/C52Im4.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+
+    {
+        "_id": "c-996-5",
+        "_parentId": "b-996-5",
+        "_classes": "",
+        "_layout": "full",
+        "_type": "component",
+        "_component": "matching",
+        "_attempts": 2,
+        "_isRandom": true,
+        "_questionWeight": 10,
+        "title": "Knowledge Check",
+        "displayTitle": "Knowledge Check",
+        "body": "Here are a few sample questions. Choose the questions that you can ask your customer to acknowledge their needs by selecting yes. Select no for incorrect questions. ",
+        "instruction": "Select the correct response for each question and click submit. ",
+        "_buttons": {
+            "submit": "Submit",
+            "reset": "Reset",
+            "showCorrectAnswer": "Model Answer",
+            "hideCorrectAnswer": "Your Answer"
+        },
+        "_feedback": {
+            "correct": "That’s correct!<br>The following questions are great questions to acknowledge customer needs since they focus on customer requirements and help confirm if they are satisfied with their purchases.<ul><li>Have you found all of the ingredients required for your recipe?</li><li>Are there any other spices you require for your rib sauce recipe</li><li>Will one large bag of flour be enough to last the whole summer at the cottage? </li></ul><br>However, it is best to avoid the following question since it does not focus on customer requirements.<br><li>Would you like to know what trail mix I ate before the half marathon last month?</li>",
+            "_incorrect": {
+                "notFinal": "",
+                "final": "That’s incorrect!<br>The following questions are great questions to acknowledge customer needs since they focus on customer requirements and help confirm if they are satisfied with their purchases.<ul><li>Have you found all of the ingredients required for your recipe?</li><li>Are there any other spices you require for your rib sauce recipe</li><li>Will one large bag of flour be enough to last the whole summer at the cottage? </li></ul><br>However, it is best to avoid the following question since it does not focus on customer requirements.<br><li>Would you like to know what trail mix I ate before the half marathon last month?</li>     "
+            },
+            "_partlyCorrect": {
+                "notFinal": "",
+                "final": "That’s incorrect!<br>The following questions are great questions to acknowledge customer needs since they focus on customer requirements and help confirm if they are satisfied with their purchases.<ul><li>Have you found all of the ingredients required for your recipe?</li><li>Are there any other spices you require for your rib sauce recipe</li><li>Will one large bag of flour be enough to last the whole summer at the cottage? </li></ul><br>However, it is best to avoid the following question since it does not focus on customer requirements.<br><li>Would you like to know what trail mix I ate before the half marathon last month?</li> "
+            }
+        },
+        "placeholder": "select an option",
+        "_items": [
+            {
+                "text": "Have you found all of the ingredients required for your recipe?",
+                "_options": [
+                    {
+                        "text": "Yes",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "No",
+                        "_isCorrect": false
+                    }
+
+                ]
+            },
+            {
+                "text": "Are there any other spices you require for your rib sauce recipe?  ",
+                "_options": [
+                    {
+                        "text": "Yes",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "No",
+                        "_isCorrect": false
+                    }
+
+                ]
+            },
+            {
+                "text": "Will one large bag of flour be enough to last the whole summer at the cottage?  ",
+                "_options": [
+                    {
+                        "text": "Yes",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "No",
+                        "_isCorrect": false
+                    }
+
+                ]
+            },
+            {
+                "text": "Would you like to know what trail mix I ate before the half marathon last month? ",
+                "_options": [
+                    {
+                        "text": "Yes",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "No",
+                        "_isCorrect": true
+                    }
+
+                ]
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+
+
+    {
+        "_id": "c-996-6",
+        "_parentId": "b-996-6",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What You Need to Do to Acknowledge Customer Needs",
+        "displayTitle": "What You Need to Do to Acknowledge Customer Needs",
+        "body": "To acknowledge customer needs and deliver on the “A” component of the customer service model, you need to: ",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Listen actively to the customer’s responses to your questions.  ",
+                "_graphic": {
+                    "src": "course/en/images/C53Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Assess and provide product options to the customer.",
+                "_graphic": {
+                    "src": "course/en/images/C53Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Suggest complimentary product options to the customer. ",
+                "_graphic": {
+                    "src": "course/en/images/C53Im3.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+
+            {
+                "title": "",
+                "body": "Inform the customer of any current promotions for products the customer has expressed an interest in or that compliments the product the customer came for. ",
+                "_graphic": {
+                    "src": "course/en/images/C53Im4.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+
+            {
+                "title": "",
+                "body": "Don’t be afraid to share your favourite products, tips, ingredients and recipes – this will build a positive relationship with our customers. ",
+                "_graphic": {
+                    "src": "course/en/images/C53Im5.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+
+            {
+                "title": "",
+                "body": "Make sure the customer found what they were looking for and that solutions were offered to fulfill their requirements. ",
+                "_graphic": {
+                    "src": "course/en/images/C53Im6.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+
+            {
+                "title": "",
+                "body": "Ask open-ended questions to build rapport and lead to further product offerings. ",
+                "_graphic": {
+                    "src": "course/en/images/C53Im7.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+
+            {
+                "title": "",
+                "body": "Show that you care about the customer and their shopping experience by asking:<ul><li>Did you find everything you need?</li><li>Did you receive our flyer this week?</li><li>Did you know about our Gift Card promotion this week?</li></ul> ",
+                "_graphic": {
+                    "src": "course/en/images/C53Im8.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+
+    {
+        "_id": "c-996-7",
+        "_parentId": "b-996-7",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_isRandom": false,
+        "_selectable": 13,
+        "title": "What Products Could You Offer? ",
+        "displayTitle": "What Products Could You Offer? ",
+        "body": "<br>Through asking all the right questions, you have identified that a customer requires raisins for the trail mix they are making. What other products could you offer? ",
+        "instruction": "Select the correct options and click submit.",
+        "_items": [
+            {
+                "text": "Other dried fruits (dried cranberries, dried cherries, dried blueberries, dates)",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Nuts (almonds, cashews)",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Seeds (pumpkin seeds, sunflower seeds, hemp seeds)",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Granolas",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Coconuts",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Take them to our very own trail mixes (Cranberry  Classic, Serendipity, Chuckle Berry, Exotic Fruit Medley)",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Spices",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Pasta",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Rice",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Fondant",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Bird Seed",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Whey Protein",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Textured Vegetable Protein",
+                "_shouldBeSelected": false
+            }
+
+        ],
+        "_feedback": {
+            "correct": "That’s right!<br>You have correctly identified the products that you could offer this customer. It will include:<br><li>Other dried fruits (dried cranberries, dried cherries, dried blueberries, dates)</li><li>Nuts (almonds, cashews)</li><li>Seeds (pumpkin seeds, sunflower seeds, hemp seeds)</li><li>Granolas</li><li>Coconuts</li><li>Take them to our very own trail mixes (Cranberry Classic, Serendipity, Chuckle Berry, Exotic Fruit Medley)</li>",
+            "_incorrect": {
+                "notFinal": "",
+                "final": "Not exactly.<br>There are several items that are ideal for making a trail mix that you can offer the customer considering they are making a trail mix. You can suggest the following products:<br><li>Other dried fruits (dried cranberries, dried cherries, dried blueberries, dates)</li><li>Nuts (almonds, cashews)</li><li>Seeds (pumpkin seeds, sunflower seeds, hemp seeds)</li><li>Granolas</li><li>Coconuts</li><li>Take them to our very own trail mixes (cranberry classic, serendipity, chuckle berry, exotic fruit medley)</li>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "",
+                "final": "That’s correct but there’s more.<br>In addition to your suggestions, here are a few more products that you can suggest.<br><li>Other dried fruits (dried cranberries, dried cherries, dried blueberries, dates)</li><li>Nuts (almonds, cashews)</li><li>Seeds (pumpkin seeds, sunflower seeds, hemp seeds)</li><li>Granolas</li><li>Coconuts</li><li>Take them to our very own trail mixes (cranberry classic, serendipity, chuckle berry, exotic fruit medley)</li>"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+
+    {
+        "_id": "c-996-8",
+        "_parentId":"b-996-8",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Customer Personalities and Coaching Tips",
+        "displayTitle": "Customer Personalities and Coaching Tips",
+        "body": "",
+        "mobileBody": "Hot Spot Interaction ",
+        "instruction":"Click each hotspot marker on the image to continue.",
+        "_graphic": {
+            "src": "course/en/images/hotspot-02.jpg",
+            "alt": "alt text",
+            "title": "title"
+        },
+        "_items": [
+            {
+                "title": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "body": "<ul><li>This customer may be in a hurry to leave the store, or may not be in a happy frame of mind but it is important that they know that you have understood what they are looking for and have done your best to “acknowledge their needs”.</li><li>Again this will prove to them that you were there for them and that you were trying to make their experience as positive as possible.</li><li>This will open an opportunity up for you to “Add on” – this customer may have just been looking for a snack or trail mix, however you’ve diffused them, earned their trust and now you can show them that they can build their own mix by purchasing their own ingredients.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/hurry.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "_top": 35,
+                "_left": 10
+            },
+            {
+                "title": "The “Cooperative”, “Happy” , “Looking for Help” and/or “Willing” Customer",
+                "body": "<ul><li>With any customer, or situation in life, it is important to show that you are listening – showing that you were paying attention to the customer’s needs and acknowledging them goes a long way.</li><li>This customer has been right with you the whole way through – prove to them that you can assist them even further by showing them more products that will help with their needs.</li><li>If this customer came in simply looking for candy molds and you have identified they are throwing a party, you need to show them the Piñatas, the wrapped candy and cello loot bags, cake pans and sprinkles – the sky is the limit. </li><li>Prove to this customer that we are a “one – stop shop”.</li><li>We not only need customers to feel welcome, but also to want to do all of their shopping with us.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/cooprative.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "Cooperative”, “Happy” , “Looking for Help” and/or “Willing” Customer",
+                "_top": 5,
+                "_left": 42
+            },
+            {
+                "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "body": "<ul><li>This customer may be shy and not so willing to open up to you about their needs; however it is important that they know that you have understood what they are looking for and have done your best to “acknowledge their needs”.</li></ul>This will prove to them that you were there for them and that you were trying to make their experience as positive as possible.",
+                "_graphic": {
+                    "src": "course/en/images/frightfull.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "_top": 39,
+                "_left": 72
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+	
+	{
+           "_id": "c-996-9",
+			"_parentId":"b-996-9",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>You’ve learned about Acknowledging Customer Needs and Adding-On, click the arrow below to go back to the course menu.<br/><br/><a href='index.html#/id/co-15'><img src='course/en/images/back.png' style='display:block; margin:0 auto; width:auto !important; max-width: 100% !important;'></a>",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": false
+            }
+     },
+	
+	
+	
+	
+    {
+        "_id": "c-997-1",
+        "_parentId": "b-997-1",
+        "_type": "component",
+        "_component": "textAnimate",
+        "_classes": "",
+        "_layout": "center",
+        "title": "BULKBA<u>R</u>N",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_item": {
+            "text": "BULKBARN",
+            "hightlightPosition": 6,
+            "descriptionText": "<h1>:Relationship Management</h1>",
+            "animationTime": 1000
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-997-2",
+        "_parentId": "b-997-2",
+        "_type": "component",
+        "_component": "media",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Close Every Transaction on a High Note",
+        "displayTitle": "Close Every Transaction on a High Note",
+        "body": "",
+        "instruction": "Click the Play button below to watch the video.",
+        "_setCompletionOn": "play",
+        "_media": {
+            "mp4": "course/en/video/CustomerService_C54v1_v2_FINAL.mp4",            
+            "poster": "course/en/video/customerservice_C54v1_poster.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-997-3",
+        "_parentId": "b-997-3",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "full",
+        "title": "What Is Meant by Relationship Management?",
+        "displayTitle": "What Is Meant by Relationship Management?",
+        "body": "Relationship Management is about working towards creating and maintaining an excellent customer experience in order to build a relationship with each and every customer.<br><br>Your last impression is just as important as your first. You have worked hard every step of the way – so make sure you finish off the last few steps on a high note.<br><br>You need to show them that we are here to help them, to provide a great shopping experience, and to make sure they go home happy!",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Daily Inspection and Sweeping Log",
+            "title": "",
+            "large": "course/en/images/C56Im1.jpg",
+            "medium": "course/en/images/C56Im1.jpg",
+            "small": "course/en/images/C56Im1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-997-4",
+        "_parentId": "b-997-4",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What You Need to Do Build and Manage a Customer Relationship",
+        "displayTitle": "What You Need to Do Build and Manage a Customer Relationship",
+        "body": "To build a great relationship with the customer, you need to: ",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Greet every customer in a friendly and engaging manner.",
+                "_graphic": {
+                    "src": "course/en/images/C56Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Be available to the customer and attend to service their needs/wants.",
+                "_graphic": {
+                    "src": "course/en/images/C56Im3.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Maintain a friendly demeanor with the customer throughout their entire visit.",
+                "_graphic": {
+                    "src": "course/en/images/C56Im4.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Ask your manager about situations and scenarios and ensure your manager sets a standard for what is acceptable.",
+                "_graphic": {
+                    "src": "course/en/images/c13-s02.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Be sure to ask customers if they have found everything they came in for – ensuring they are completely satisfied with their visit.",
+                "_graphic": {
+                    "src": "course/en/images/C56Im6.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Understand that while the customer may not always be right, you still need to manage their expectations while maintaining a friendly approach.",
+                "_graphic": {
+                    "src": "course/en/images/C56Im7.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id": "c-997-5",
+        "_parentId":"b-997-5",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",
+        "title": "Customer Personalities and Coaching Tips",
+        "displayTitle": "Customer Personalities and Coaching Tips",
+        "body": "",
+        "mobileBody": "",
+        "instruction":"Click each hotspot marker on the image to continue.",
+        "_graphic": {
+            "src": "course/en/images/hotspot-02.jpg",
+            "alt": "alt text",
+            "title": "title"
+        },
+        "_items": [
+            {
+                "title": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "body": "<ul><li>This sort of customer can be the hardest or the easiest customer to build that relationship with.</li><li>Easiest in the sense that if they have entered the store in a “gnarly” disposition, and you’ve helped them the whole way through with confidence and your positive attitude, then the likelihood is that you have simmered them down and they are willing to finish their experience off on a higher note – leaving them with a better experience then when they entered the store.</li><li>Hardest in the sense that some people are just rude and/or in a rush and/or simply agitated with life.</li><li>Don’t take this personally: You’ve done your best to ensure they have had a great experience – so be proud of yourself.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/hurry.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “In a Hurry”, “Grumpy”, and/or “Agitated” Customer",
+                "_top": 35,
+                "_left": 10
+            },
+            {
+                "title": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+                "body": "<ul><li>Although these customers are easy to work with and are cooperative, it is still very important to end this visit on a great note.</li><li>Follow all the steps of the Bulk Barn model to serve the customer better.</li><li>Maintain your professionalism and continue to ask the questions to lead you in the right direction.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/cooprative.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “Cooperative”, “Happy”, “Looking for Help” and/or “Willing” Customer",
+                "_top": 5,
+                "_left": 42
+            },
+            {
+                "title": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "body": "<ul><li>You have done all the steps correctly with this customer – great job – it will be surprising how quickly this customer has warmed up to you.</li><li>Ensure that you stick to the plan and provide them with a great last impression.</li><li>This “Frightful”, “Timid”, “Shy” Customer won’t be so frightful, timid or shy the next time they come in.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/frightfull.jpg",
+                    "alt": "alt text",
+                    "title": "title text"
+                },
+                "strapline": "The “Frightful”, “Timid” and/or “Shy” Customer",
+                "_top": 39,
+                "_left": 72
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+	
+	
+	{
+              "_id": "c-997-6",
+			"_parentId":"b-997-6",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>You’ve learned about Relationship Management, click the arrow below to go back to the course menu.<br/><br/><a href='index.html#/id/co-15'><img src='course/en/images/back.png' style='display:block; margin:0 auto; width:auto !important; max-width: 100% !important;'></a>",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": false
+            }
+     },
+	
+
+    {
+        "_id": "c-998-1",
+        "_parentId": "b-998-1",
+        "_type": "component",
+        "_component": "textAnimate",
+        "_classes": "",
+        "_layout": "center",
+        "title": "BULKBR<u>N</u>",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_item": {
+            "text": "BULKBARN",
+            "hightlightPosition": 7,
+            "descriptionText": "<h1>:Next Visit </h1>",
+            "animationTime": 1000
+        }
+    },
+
+    {
+        "_id": "c-998-2",
+        "_parentId": "b-998-2",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Keep Customers Visiting Again and Again",
+        "displayTitle": "Keep Customers Visiting Again and Again",
+        "body": "Using the Bulk Barn model you’ve seen how we can provide our customers a great experience right from<br>understanding their needs to closing the visit successfully. What’s more – you need to ensure that they keep visiting again and again.<br><br>A customer’s experience begins from the minute they enter the store. A professional appearance and welcoming demeanour, the way an employee approaches the customer, understands requirements, leads them to find what they want, and helps them make a choice – determines how the customer’s experience will be. ",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+
+    {
+        "_id": "c-998-3",
+        "_parentId": "b-998-3",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "full",
+        "title": "",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Daily Inspection and Sweeping Log",
+            "title": "",
+            "large": "course/en/images/C61Im1a.jpg",
+            "medium": "course/en/images/C61Im1a.jpg",
+            "small": "course/en/images/C61Im1a.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+    {
+        "_id": "c-998-4",
+        "_parentId": "b-998-4",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "What Is Meant By “Next Visit”?",
+        "displayTitle": "What Is Meant By “Next Visit”?",
+        "body": "",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "N stands for Next visit, the final step “N” in the Bulk Barn model is a goal for all employees. Employees need to provide an excellent shopping experience consistently to each customer and encourage them to return.",
+                "_graphic": {
+                    "src": "course/en/images/C61Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "It’s important to ensure that every customer receives the same outstanding treatment time and time again, from visit to visit to ensure they keep coming back.",
+                "_graphic": {
+                    "src": "course/en/images/C61Im3.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "By creating a positive shopping experience, the customer will feel welcomed, appreciated and satisfied which will make them want to come back!",
+                "_graphic": {
+                    "src": "course/en/images/C61Im4.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "By following this model, you will have given it your all to ensure the customer had an outstanding trip to our store.",
+                "_graphic": {
+                    "src": "course/en/images/C61Im5.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+
+
+    {
+        "_id": "c-998-5",
+        "_parentId": "b-998-5",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "How to Ensure a Customer Visits the Next Time and Again?",
+        "displayTitle": "How to Ensure a Customer Visits the Next Time and Again?",
+        "body": "To make sure the customer visits the store again, you need to: ",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "",
+                "body": "Ensure an excellent and consistent shopping experience for all our customers.",
+                "_graphic": {
+                    "src": "course/en/images/C61Im6.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Thank every customer for coming and invite them to return; even if some of the customers have not made a purchase.",
+                "_graphic": {
+                    "src": "course/en/images/C61Im7.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            },
+            {
+                "title": "",
+                "body": "Make the customer feel welcomed, appreciated and satisfied.",
+                "_graphic": {
+                    "src": "course/en/images/C61Im8.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "Click the plus sign for more info"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+	
+	{
+           "_id": "c-998-6",
+			"_parentId": "b-998-6",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "",
+            "_layout": "center",
+            "title": "",
+            "displayTitle": "",
+            "body": "<br>You’ve learned about Next Visit, click the arrow below to go back to the course menu.<br/><br/><a href='index.html#/id/co-15'><img src='course/en/images/back.png' style='display:block; margin:0 auto; width:auto !important; max-width: 100% !important;'></a>",
+            "instruction": "",
+            "_pageLevelProgress": {
+            "_isEnabled": false
+            }
+     },	
+
+    {
+        "_id": "c-999",
+        "_parentId": "b-999",
+        "_classes": "",
+        "_type": "component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "The Bulk Barn Customer Service Model - Recap",
+        "displayTitle": "The Bulk Barn Customer Service Model - Recap",
+        "body": "",
+        "instruction": "Select the red forward arrow below to learn more.",
+        "_items": [
+            {
+                "title": "B: Bring It",
+                "body": "<br>Bring it is an attitude of positively embracing day’s responsibilities in compliance with company’s operating policies and procedures.",
+                "_graphic": {
+                    "src": "course/en/images/C62Im1.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "B: Bring It"
+            },
+            {
+                "title": "U: Understanding Customer Needs",
+                "body": "<br>Understanding customer needs is about actively engaging a customer to attain an understanding of their product needs and wants.",
+                "_graphic": {
+                    "src": "course/en/images/C62Im2.jpg",
+                    "alt": "First graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "U: Understanding Customer Needs"
+            },
+            {
+                "title": "L: Leading the Customer",
+                "body": "<br>Leading the Customer is about employees guiding the customers directly to the product they want; every time all the time.",
+                "_graphic": {
+                    "src": "course/en/images/C62Im3.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "L: Leading the Customer"
+            },
+            {
+                "title": "K: Knowing the Products, Processes and Promotions",
+                "body": "<br>Knowing the Products, Processes and Promotions is about having a good understanding of the products, store operating processes and all current promotional activities.",
+                "_graphic": {
+                    "src": "course/en/images/C62Im4.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "K: Knowing the Products, Processes and Promotions"
+            },
+            {
+                "title": "B: Believing in Product and Processes",
+                "body": "<br>Believing in the Products and Processes refers to an attitude where the employee exudes confidence and pride when speaking about our product and brand.",
+                "_graphic": {
+                    "src": "course/en/images/C62Im5.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "B: Believing in Product and Processes"
+            },
+            {
+                "title": "A: Acknowledging Customer Needs and Adding-On ",
+                "body": "<br>Acknowledging Customer Needs and Adding-On is about listening to the customer and offering product options that will meet and/or compliment the customers” needs/wants.",
+                "_graphic": {
+                    "src": "course/en/images/C62Im6.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "A: Acknowledging Customer Needs and Adding-On"
+            },
+            {
+                "title": "R: Relationship Management",
+                "body": "<br>Relationship Management is about working towards creating and maintaining an excellent customer experience to build a relationship with each and every customer. ",
+                "_graphic": {
+                    "src": "course/en/images/C62Im7.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "R: Relationship Management"
+            },
+            {
+                "title": "N: Next Visit",
+                "body": "<br>The final step “N” in the Bulk Barn model is a goal for all employees. Employees need to provide an excellent shopping experience consistently to each customer and encourage them to return.",
+                "_graphic": {
+                    "src": "course/en/images/C62Im8.jpg",
+                    "alt": "Second graphic",
+                    "title": "Second graphic"
+                },
+                "strapline": "N: Next Visit"
+            },
+            {
+                "title": "",
+                "body": "Scroll down to continue.",
+                "_graphic": {
+                    "src": "course/en/images/arrow_down.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Scroll down to continue"
+            }
+
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+    "_id": "c-999-a",
+    "_parentId": "b-999-a",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "center",
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "This model is your guide to ensuring that customers receive an outstanding visit time and time again – from store to store.<br><br>Our customers are our number 1 priority. We need to treat them like guests, value their visit and appreciate their time.<br><br>By creating a positive shopping experience, we will ensure that customers identify our store as a fun and friendly place for all of their bulk needs and keep coming back.",
+    "instruction": "",
+    "_pageLevelProgress": {
+        "_isEnabled": true
+    }
+},
+    	
+	{
+        "_id": "c-994",
+        "_parentId": "b-994",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "crest-logo scroll-btn",
+        "_layout": "center",
+        "title": "Conclusion",
+        "displayTitle": "Conclusion",
+        "body": "This course has been designed to help you achieve the highest possible standards in customer satisfaction.<br><br>But keep in mind that every course and module in the eLearning program targets that exact same objective.<br><br>Whether it is cleaning our stores<br><br>Offering a fast and efficient point of sale experience<br><br>Merchandising<br><br>Or any of the other countless processes that we do day in and day out, we are all working toward one goal:<br><br><b>Delivering unparalleled customer satisfaction by offering an unequaled shopping experience!</b>",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    } 
+
+]

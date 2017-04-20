@@ -1,0 +1,26 @@
+<div class="menu-item-inner">
+    <div class="icon icon-tick icon-right"></div>
+	<div class="menu-graphic">
+
+		{{#unless _isMenuItemLocked}}
+		<a href="#/id/{{_id}}" class="{{#if _isVisited}}visited{{/if}}">
+		{{/unless}}
+			<img src="{{_graphic.src}}" alt="{{_graphic.alt}}" />
+		{{#unless _isMenuItemLocked}}
+		</a>
+		{{/unless}}
+	</div>
+	<div class="menu-item-title">
+		<h2 class="menu-item-title-inner">{{{displayTitle}}}</h2>
+	</div>
+	<!--div class="menu-item-body">
+		<div class="menu-item-body-inner">{{{body}}}</div>
+	</div-->
+	<div class="menu-item-button">
+        <span class="menu-item-duration">Duration: {{{duration}}}</span>
+        <a href="#/id/{{_id}}" class="menu-item-button-link{{#if _isVisited}}visited{{/if}}">
+            {{{linkText}}}
+        </a>
+	</div>
+
+</div>

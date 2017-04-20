@@ -1,0 +1,337 @@
+[
+    {
+        "_id": "co-01",
+        "_parentId": "course",
+        "_type": "menu",
+        "_classes": "menu-width",
+        "title": "",
+        "displayTitle": "Welcome to Eight Steps to Customer Service Success",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/C11Im1.jpg"
+        },
+        "linkText": "Go",
+        "duration": "30 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_isInitialView": true
+    },
+    {
+        "_id": "co-05",
+        "_parentId": "course",
+        "_type": "menu",
+        "_classes": "",
+        "title": "Welcome to Eight Steps to Customer Service Success",
+        "displayTitle": "Welcome to Eight Steps to Customer Service Success",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/C11Im1.jpg"
+        },
+        "linkText": "Go",
+        "duration": "30 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-10",
+        "_parentId": "co-01",
+        "_type": "page",
+        "_classes": "",
+        "title": "Welcome to Eight Steps to Customer Service Success",
+        "displayTitle": "Welcome to Eight Steps to Customer Service Success",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/C11Im1.jpg"
+        },
+        "linkText": "Go",
+        "duration": "30 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+	
+
+    {
+        "_id": "co-15",
+        "_parentId": "co-05",
+        "_type": "menu",
+        "_classes": "",
+        "title": "Bulk Barn Customer Service Candy Jar",
+        "displayTitle": "Customer Service Candy Jar",
+        "body": "Each letter in the Customer Service Candy Jar! model corresponds to one attribute that will help you provide the best possible customer experience.<br><br>Select each letter of the BULK BARN acronym in proper order to learn more.",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/menu-one.jpg"
+        },
+        "linkText": "Go",
+        "duration": "30 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "co-20",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - B",
+        "displayTitle": "Bring It",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-b-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "3 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":true,
+            "_duration":10,
+            "_popupTitle":"Eight Steps to Customer Service Success",
+            "_popupText":"Congratulations! You have completed this section, please click the Go to Menu button to go to the course menu.",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    },
+    {
+        "_id": "co-25",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - U",
+        "displayTitle": "Understanding Customer Needs",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-u-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":true,
+            "_duration":10,
+            "_popupTitle":"Eight Steps to Customer Service Success",
+            "_popupText":"Congratulations! You have completed this section, please click the Go to Menu button to go to the course menu.",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    },
+    {
+        "_id": "co-30",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - L",
+        "displayTitle": "Leading the Customer",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-l-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":true,
+            "_duration":10,
+            "_popupTitle":"Eight Steps to Customer Service Success",
+            "_popupText":"Congratulations! You have completed this section, please click the Go to Menu button to go to the course menu.",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    },
+    {
+        "_id": "co-35",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - K",
+        "displayTitle": "Knowing the Products, Processes and Promotions ",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-k-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "5 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":true,
+            "_duration":10,
+            "_popupTitle":"Eight Steps to Customer Service Success",
+            "_popupText":"Congratulations! You have completed this section, please click the Go to Menu button to go to the course menu.",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    },
+    {
+        "_id": "co-40",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - B",
+        "displayTitle": "Believing in Product and Processes",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-b-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":true,
+            "_duration":10,
+            "_popupTitle":"Eight Steps to Customer Service Success",
+            "_popupText":"Congratulations! You have completed this section, please click the Go to Menu button to go to the course menu.",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    },
+    {
+        "_id": "co-45",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - A",
+        "displayTitle": "Acknowledging Customer Needs and Adding-On",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-a-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":true,
+            "_duration":10,
+            "_popupTitle":"Eight Steps to Customer Service Success",
+            "_popupText":"Congratulations! You have completed this section, please click the Go to Menu button to go to the course menu.",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    },
+    {
+        "_id": "co-50",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - R",
+        "displayTitle": "Relationship Management",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-r-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "6 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":true,
+            "_duration":10,
+            "_popupTitle":"Eight Steps to Customer Service Success",
+            "_popupText":"Congratulations! You have completed this section, please click the Go to Menu button to go to the course menu.",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    },
+    {
+        "_id": "co-55",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "",
+        "title": "BULKBARN - N",
+        "displayTitle": "Next Visit",
+        "body": "",
+        "_graphic": {
+            "alt": "Title of Module",
+            "src": "course/en/images/bulkbarn-n-menu.jpg"
+        },
+        "linkText": "Go",
+        "duration": "4 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":true,
+            "_duration":10,
+            "_popupTitle":"Eight Steps to Customer Service Success",
+            "_popupText":"Congratulations! You have completed this section, please click the Go to Menu button to go to the course menu.",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    },
+    {
+        "_id": "co-60",
+        "_parentId": "co-15",
+        "_type": "page",
+        "_classes": "summary-menu",
+        "title": "Summary",
+        "displayTitle": "Summary",
+        "body": "",
+        "_graphic": {
+            "alt": "",
+            "src": ""
+        },
+        "linkText": "Go",
+        "duration": "2 mins 45 secs",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "_pageCompletion":{
+            "_isEnabled":10,
+            "_popupTitle":"Eight Steps to Customer Service Success",
+            "_popupText":"Congratulations! You have completed this section, please click the Go to Menu button to go to the course menu.",
+            "_backLink":{
+                "url":"#/id/co-15",
+                "linkText":"Go to Menu"
+            }
+
+        }
+    }
+]

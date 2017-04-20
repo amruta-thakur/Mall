@@ -1,0 +1,37 @@
+{
+    "_id": "course",
+    "_type": "course",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "_buttons": {
+        "submit": "Submit",
+        "reset": "Reset",
+        "showCorrectAnswer": "Model Answer",
+        "hideCorrectAnswer": "My Answer"
+    },
+    "_latestTrackingId": 24,
+    "_resources": {
+        "title": "Resources",
+        "description": "Click here to view resources for this course",
+        "_filterButtons": {
+            "all": "All",
+            "document": "PDF",
+            "media": "Media",
+            "link": "Link"
+        },
+        "_resourcesItems": [
+            {
+                "_type": "document",
+                "title": "Dishwasher Cleaning",
+                "description": "Dishwasher Cleaning Instructions Document",
+                "_link": "course/en/pdf/3.0 Dishwasher Cleaning Instructions.pdf"
+            }
+        ]
+    },
+    "_pageLevelProgress": {
+        "_isEnabled": true,
+        "_altText": "of components completed on this page"
+    },
+    "redirectContentObjectId": "co-01"
+}

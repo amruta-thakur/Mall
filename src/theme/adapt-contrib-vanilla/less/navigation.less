@@ -1,0 +1,46 @@
+// Navigation styling
+// ==================
+
+.navigation {
+    width:100%;
+    .ie8 & {
+        max-width:@ie8-max-width;
+    }
+    background-color:@navigation-color;
+    height:@navigation-height;
+    @media all and (max-width:(@device-width-medium - 1px)) {
+        height:@navigation-height-mobile;
+    }
+    border-bottom:@navigation-border;
+    .navigation-inner {
+        .page-level-progress-navigation{
+            .page-level-progress-navigation-completion{
+                .page-level-progress-navigation-bar{
+                    background-color:#fc4237;
+                }
+            }
+        }
+        .navigation-logo{
+            background-image:url(assets/logo.png);
+            display:block;
+            width:187px;
+            height:30px;
+            float:left;
+            margin-top:15px;
+            margin-left:28px;
+        }
+        .navigation-drawer-gohome-button{
+            float:right;
+        }
+    }
+    .icon {
+        padding:@navigation-padding;
+        @media all and (max-width:(@device-width-medium - 1px)) {
+            padding:@navigation-padding-mobile;
+        }
+        color:#fc4237;
+        .no-touch &:hover {
+            color:@navigation-icon-hover-color;
+        }
+    }
+}
